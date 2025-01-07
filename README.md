@@ -1,3 +1,6 @@
+### Relational DB vs Mongo Db
+![image](https://github.com/user-attachments/assets/52c9400e-2c4b-4175-bbf2-108f03276cf1)
+
 ### Swagger link
 
 http://localhost:8080/swagger-ui.html#/
